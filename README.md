@@ -23,8 +23,8 @@ Este script permite buscar la existencia de un nombre de usuario en diferentes p
 
 1. Clona el repositorio o descarga el script:
     ```bash
-    git clone https://github.com/tu-repo/social-media-search.git
-    cd social-media-search
+    git clone https://github.com/k4liz3n/OSINT.git
+    cd OSINT
     ```
 
 2. Instala las dependencias requeridas:
