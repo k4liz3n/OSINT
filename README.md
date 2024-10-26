@@ -34,7 +34,7 @@ Este script permite buscar la existencia de un nombre de usuario en diferentes p
 
 3. Ejecuta el script:
     ```bash
-    python social_media_search.py
+    python main.py
     ```
 
 4. Selecciona una de las opciones proporcionadas:
